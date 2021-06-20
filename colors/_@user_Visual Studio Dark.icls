@@ -4,7 +4,7 @@
     <property name="created">2021-06-19T21:40:24</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2021-06-19T23:01:44</property>
+    <property name="modified">2021-06-20T12:01:06</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -19,6 +19,11 @@
     <option name="ReSharper.CSHARP_LOCAL_VARIABLE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="f3cbaa" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ccccff" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_PARAMETER_IDENTIFIER">
