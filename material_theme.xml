@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="indicatorStyle" value="None" />
+    <option name="accentColor" value="4060a1" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-1ba05cc9:17a2591328d:-8000" />
+  </component>
+</application>
