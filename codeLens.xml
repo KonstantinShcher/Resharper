@@ -2,6 +2,7 @@
   <component name="CodeLensSettings">
     <enabled>
       <map>
+        <entry key="IL code" value="false" />
         <entry key="Unity implicit usage" value="false" />
       </map>
     </enabled>
