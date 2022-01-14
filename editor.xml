@@ -17,5 +17,13 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;FK)(\W|$)(.*)">
+      <option name="FOREGROUND" value="67fa00" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="a72b2" />
+    </pattern>
+    <filter name="FK">
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
