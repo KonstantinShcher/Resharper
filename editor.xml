@@ -14,16 +14,11 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;FK)(\W|$)(.*)">
-      <option name="FOREGROUND" value="67fa00" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="a72b2" />
-    </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <filter name="FK">
-      <pattern index="2" />
+      <pattern index="-1" />
     </filter>
   </component>
 </application>
