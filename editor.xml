@@ -18,6 +18,8 @@
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;FK)(\W|$)(.*)" />
-    <filter name="FK" />
+    <filter name="FK">
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
