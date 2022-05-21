@@ -10,6 +10,10 @@
           <option name="url" value="http://git.playful-fairies.com" />
           <option name="userName" value="scherbatyuk.k@panoramik.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bit.rockbee.org" />
+          <option name="userName" value="konstantin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
