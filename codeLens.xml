@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeLensSettings" isTransfered="true">
+    <enabled>
+      <map>
+        <entry key="IL code" value="false" />
+        <entry key="Unity implicit usage" value="false" />
+      </map>
+    </enabled>
+  </component>
+</application>
