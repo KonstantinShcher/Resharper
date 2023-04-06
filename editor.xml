@@ -12,7 +12,6 @@
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="IL code" />
-        <option value="Unity implicit usage" />
       </set>
     </option>
   </component>
