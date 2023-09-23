@@ -26,6 +26,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Position" value="false" />
         <entry key="RoslynIcon" value="false" />
       </map>
     </option>
